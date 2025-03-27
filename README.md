@@ -6,8 +6,8 @@ Buddy AI is an AI-powered assistant that enables employees to query departmental
   - Reduce employee query resolution time from 3-5 days to immediately
   - Improve knowledge base accesibility
   - Reduce dependency
-  - Instead of manually scanning PDFs / Word docs, direct answers are delivered to prompts from the actual documents using RAG-based AI assistant
-
+  - Instead of manually scanning PDFs / Word docs, uses RAG-based AI to deliver direct answers from internal documents (PDFs, Word, JSON, XML)
+    
 -----
 
 ### 🎥 App Walkthrough (Click on image or Link below)
