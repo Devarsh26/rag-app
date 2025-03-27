@@ -64,5 +64,5 @@ Code in [Respository](https://github.com/Devarsh26/rag-based-knowledge-retrieval
 ### What's Next?
  
  - Add Admin Dashboard for usage monitoring
- - Support multilingual queries
- -  Model comparison: Mistral vs Gemma vs LLaMA
+ - Parameter testing to address data chunking quality
+ - Model comparison: Mistral vs Gemma vs LLaMA
