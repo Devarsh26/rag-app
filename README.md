@@ -25,6 +25,22 @@ Buddy AI is an AI-powered assistant that enables employees to query departmental
 
 -----
 
+### 📊 User Analytics Dashboard
+
+<div align="center">
+  <a href="https://public.tableau.com/app/profile/devarsh2381/viz/CustomerUserExperienceAIChatbotPerformanceAnalysis/CustomerUserExperienceAIChatbotPerformanceAnalysis">
+    <img src="Dashboard.png" width="700"/>
+  </a>
+  <br><br>
+  <b>OR</b>
+  <br><br>
+</div>
+
+**[Demo Link](https://public.tableau.com/app/profile/devarsh2381/viz/CustomerUserExperienceAIChatbotPerformanceAnalysis/CustomerUserExperienceAIChatbotPerformanceAnalysis
+)**
+
+-----
+
 ### ⚙️ System Architecture & Working
 
 1. Documents from SharePoint (PDF/Word/JSON/XML)
