@@ -29,7 +29,7 @@ Buddy AI is an AI-powered assistant that enables employees to query departmental
 
 <div align="center">
   <a href="https://public.tableau.com/app/profile/devarsh2381/viz/CustomerUserExperienceAIChatbotPerformanceAnalysis/CustomerUserExperienceAIChatbotPerformanceAnalysis">
-    <img src="Dashboard.png" width="700"/>
+    <img src="Dashboard Thumbnail.png" width="700"/>
   </a>
   <br><br>
   <b>OR</b>
